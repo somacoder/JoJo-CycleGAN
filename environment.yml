@@ -16,5 +16,4 @@ dependencies:
       - matplotlib
       - ipython
       - tensorflow-datasets
-post-link:
-  - wget https://raw.githubusercontent.com/affinelayer/pix2pix-tensorflow/master/pix2pix.py -O pix2pix.py
+      - https://raw.githubusercontent.com/affinelayer/pix2pix-tensorflow/master/pix2pix.py

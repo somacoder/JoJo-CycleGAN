@@ -1,0 +1,23 @@
+name: pytorch-CycleGAN-and-pix2pix
+auto_activate_base: false
+channel_priority: strict
+allow_conda_downgrades: true
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - tensorflow-gpu
+  - opencv
+  - pip
+  - pip:
+      - numpy
+      - Pillow
+      - pathlib
+      - matplotlib
+      - ipython
+      - tensorflow-datasets
+      - git+https://github.com/tensorflow/examples.git
+
+# conda env create -f environment.yml

@@ -8,7 +8,6 @@ dependencies:
   - tensorflow-gpu
   - opencv
   - pip
-  - wget
   - pip:
       - numpy
       - Pillow

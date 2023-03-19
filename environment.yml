@@ -15,4 +15,3 @@ dependencies:
       - matplotlib
       - ipython
       - tensorflow-datasets
-      - git+https://github.com/tensorflow/examples.git

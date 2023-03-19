@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from IPython.display import clear_output
 import tensorflow as tf
 import tensorflow_datasets as tfds
-from tensorflow_examples.models.pix2pix import pix2pix
+from models import pix2pix
 
 GPUS = tf.config.experimental.list_physical_devices('GPU')
 if GPUS:

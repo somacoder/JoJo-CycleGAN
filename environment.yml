@@ -8,6 +8,7 @@ dependencies:
   - tensorflow-gpu
   - opencv
   - pip
+  - wget
   - pip:
       - numpy
       - Pillow
@@ -15,4 +16,5 @@ dependencies:
       - matplotlib
       - ipython
       - tensorflow-datasets
-      - git+https://github.com/affinelayer/pix2pix-tensorflow.git
+post-link:
+  - wget https://raw.githubusercontent.com/affinelayer/pix2pix-tensorflow/master/pix2pix.py -O pix2pix.py

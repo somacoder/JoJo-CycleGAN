@@ -60,7 +60,7 @@ def load_prefetch(path):
     paths = np.array([x for x in pathlib.Path(path).rglob('*.png')])
     data = tf.data.Dataset.from_tensor_slices((paths.astype(str)))
     data = data.map(read_image)
-    data = data.prefetch(tf.data.AUTOTUNE)
+    data = data.prefetch(tf.data.experimental.AUTOTUNE)
     return data
 
 
@@ -70,7 +70,7 @@ test_horses = load_prefetch(prefix + '/test/horses/')
 test_zebras = load_prefetch(prefix + '/test/zebras/')
 
 # Need to add random jitter and mirroring to training images to reduce chance of over-fitting
-AUTOTUNE = tf.data.AUTOTUNE
+AUTOTUNE = tf.data.experimental.AUTOTUNE
 # optimal params https://blog.paperspace.com/how-to-maximize-gpu-utilization-by-finding-the-right-batch-size/
 BUFFER_SIZE = 10000
 BATCH_SIZE = 64

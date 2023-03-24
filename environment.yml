@@ -1,14 +1,13 @@
 name: JoJo-CycleGAN
 dependencies:
-  - python=3.10
-  - tensorflow-gpu
-  - opencv
-  - numpy
-  - pillow
-  - matplotlib
-  - ipython
-  - pathlib
-  - tensorflow-datasets
   - pip
   - pip:
+      - tensorflow-gpu
+      - opencv-python
+      - numpy
+      - pillow
+      - matplotlib
+      - ipython
+      - pathlib
+      - tensorflow-datasets
       - git+https://github.com/tensorflow/examples.git

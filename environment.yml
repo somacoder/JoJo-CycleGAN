@@ -2,12 +2,12 @@ name: JoJo-CycleGAN
 dependencies:
   - tensorflow-gpu
   - opencv
+  - numpy
+  - pillow
+  - matplotlib
+  - ipython
+  - pathlib
+  - tensorflow-datasets
   - pip
   - pip:
-      - numpy
-      - Pillow
-      - pathlib
-      - matplotlib
-      - ipython
-      - tensorflow-datasets
-      - git+https://github.com/somacoder/pix2pix-tensorflow.git
+      - git+https://github.com/tensorflow/examples.git

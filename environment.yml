@@ -1,8 +1,8 @@
 name: JoJo-CycleGAN
 dependencies:
+  - tensorflow-gpu
   - pip
   - pip:
-      - tensorflow-gpu
       - opencv-python
       - numpy
       - pillow

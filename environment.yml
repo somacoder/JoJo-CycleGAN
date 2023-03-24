@@ -10,4 +10,4 @@ dependencies:
       - matplotlib
       - ipython
       - tensorflow-datasets
-  #    - https://raw.githubusercontent.com/affinelayer/pix2pix-tensorflow/master/pix2pix.py
+      - git+https://github.com/somacoder/pix2pix-tensorflow.git

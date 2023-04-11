@@ -8,3 +8,5 @@
 * JoJo's Bizarre Adventure Part 6 - Stone Ocean
 * JoJo's Bizarre Adventure Part 7 - Steel Ball Run
 * JoJo's Bizarre Adventure Part 8 - JoJolion
+
+#####  Pages are sourced from public colorings available on https://mangadex.org/

@@ -1,8 +1,8 @@
+# JoJo - CycleGAN
 
+## This is a CycleGAN trained on colorings of my favorite Manga artist Araki Hirohiko, and applying it to new issues of JoJo’s Bizarre Adventure as they come out. Manga colorings often do not come out for years, so it’s huge for getting the full experience at release.
 
-The code was written by [G. Keith Bartley, Jr.](https://github.com/somacoder)
-
-# Current Books in Training:
+### Current Books in Training:
 * JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable
 * JoJo's Bizarre Adventure Part 5 - Vento Aureo
 * JoJo's Bizarre Adventure Part 6 - Stone Ocean

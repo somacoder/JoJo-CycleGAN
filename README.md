@@ -9,5 +9,10 @@
 * JoJo's Bizarre Adventure Part 7 - Steel Ball Run
 * JoJo's Bizarre Adventure Part 8 - JoJolion
 
+#### Machine Specs for Training:
+* Threadripper 2990-WX 64-Thread
+* 64 GB DDR4 ECC RAM
+* RTX 4990 OC 24 GB
+
 #####  Pages are sourced from public colorings available on https://mangadex.org/
 #####  Note than all finalized models will be kept private out of ethical concerns

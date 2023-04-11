@@ -10,3 +10,4 @@
 * JoJo's Bizarre Adventure Part 8 - JoJolion
 
 #####  Pages are sourced from public colorings available on https://mangadex.org/
+#####  Note than all finalized models will be kept private out of ethical concerns

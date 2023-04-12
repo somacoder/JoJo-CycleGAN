@@ -5,6 +5,7 @@
 
 ![2](https://user-images.githubusercontent.com/25708712/231305405-d3a166ff-97bf-460e-b2d7-00e254c52e60.png)
 
+##### Colorings will be used from after the switch away from Araki's "Fist of the JoeStar" style characters.
 
 #### Current Books in Training:
 * JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable

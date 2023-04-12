@@ -11,6 +11,7 @@
 
 #### Current Books in Training:
 * JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable
+* Thus Spoke Kishibe Rohan
 * JoJo's Bizarre Adventure Part 5 - Vento Aureo
 * JoJo's Bizarre Adventure Part 6 - Stone Ocean
 * JoJo's Bizarre Adventure Part 7 - Steel Ball Run

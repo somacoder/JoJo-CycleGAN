@@ -1,5 +1,7 @@
 # JoJo - CycleGAN
 
+### Nyo-Hoh!
+
 #### This is a CycleGAN trained on colorings of my favorite Mangaka, Araki Hirohiko, and applying it to new issues of JoJo’s Bizarre Adventure Part 9 - JoJoLands as they come out. Manga colorings often do not come out for years, so this would be huge for getting the full JoJo experience at release.
 
 
